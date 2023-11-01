@@ -33,3 +33,4 @@ python-dotenv==0.10.1
 redis==3.2.1
 statsd==3.3.0
 tox==3.11.1
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
