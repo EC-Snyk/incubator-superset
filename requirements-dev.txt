@@ -28,7 +28,7 @@ pre-commit==1.17.0
 psycopg2-binary==2.7.5
 pycodestyle==2.5.0
 pyhive==0.6.1
-pylint==1.9.2
+pylint==2.6.1
 python-dotenv==0.10.1
 redis==3.2.1
 statsd==3.3.0
